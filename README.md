@@ -1,2 +1,2 @@
 # Golang-Practice
-Golang Exercises for Kloudone
+Golang Training Exercises for Kloudone
