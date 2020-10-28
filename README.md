@@ -1,2 +1,2 @@
 # Golang-Practice
-Golang Training Exercises for Kloudone
+This repository contains Golang Practice Exercises for Kloudone
