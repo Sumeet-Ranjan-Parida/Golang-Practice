@@ -1,2 +1,2 @@
-# Go Program
-Basic Go Programs
+# Go Programming
+Basic Go Programming
